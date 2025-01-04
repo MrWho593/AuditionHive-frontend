@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <[https://github.com/MrWho593/AuditionHive-frontend/tree/main](https://github.com/MrWho593/AuditionHive-frontend/tree/main)>
+   git clone [https://github.com/MrWho593/AuditionHive-frontend/tree/main](https://github.com/MrWho593/AuditionHive-frontend/tree/main)
    ```
 
 2. Navigate to the project directory:
